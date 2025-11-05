@@ -6,3 +6,12 @@ Made by Griffon Rippl for Electrol Specialties.
 
 ## Gshoulder 
 Allows the user to bring spray lines to the spray ball shoulder. NOTE: Make sure you are on the correct UCS selected before use and that all lines are connected to a node **AT THE CENTER OF THE SHOULDER RADIUS**.
+
+
+
+# Installation
+To install Gtools open autocad and go to the **MANAGE** tab at the top of your screen.
+Then click the **LOAD APPLICATION** Option.
+From there find **STARTUP SUITE** and click **CONTENTS**.
+You can then open the Gtools autolisp file. 
+Now Gtools will start automatically everytime you open autocad!
