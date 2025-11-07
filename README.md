@@ -5,7 +5,7 @@ Made by Griffon Rippl for Electrol Specialties.
 # Current Commands:
 
 ## Gshoulder 
-Allows the user to bring spray lines to the spray ball shoulder. NOTE: Make sure you are on the correct UCS selected before use and that all lines are connected to a node **AT THE CENTER OF THE SHOULDER RADIUS**.
+Allows the user to bring spray lines to the spray ball shoulder. NOTE: Make sure you are on the correct UCS selected before use.
 
 
 
@@ -15,3 +15,6 @@ Then click the **LOAD APPLICATION** Option.
 From there find **STARTUP SUITE** and click **CONTENTS**.
 You can then open the Gtools autolisp file. 
 Now Gtools will start automatically everytime you open autocad!
+
+Here is tutorial video for a more in depth explanation.
+https://youtu.be/enkzAhFCz0U
